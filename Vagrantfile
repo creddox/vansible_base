@@ -1,0 +1,1 @@
+require_relative("./lib/inventory_parser.rb")
